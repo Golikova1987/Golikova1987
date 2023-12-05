@@ -1,10 +1,19 @@
-![Header](https://github.com/Golikova1987/Golikova1987/blob/main/assets/header.jpg) 
+# Привет, меня зовут Татьяна!
 
-О себе
+---
+
+<!-- ![Header](https://github.com/Golikova1987/Golikova1987/blob/main/assets/header.jpg)  -->
+<p align="center">
+ <img width="600" height="300" src="assets/header.jpg" alt="..."/>
+</p>
+
+### Обо мне
+
+Я начинающий front-end разработчик
 
 ссылки на соц сети 
 
-технологии
+### Технологии
 
 ![HTML](https://img.shields.io/badge/-HTML-3b3b3b?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-3b3b3b?style=flat&logo=css3)
