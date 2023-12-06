@@ -3,9 +3,9 @@
 ---
 
 <!-- ![Header](https://github.com/Golikova1987/Golikova1987/blob/main/assets/header.jpg)  -->
-<p align="center">
+<!-- <p align="center">
  <img width="500" height="150" src="assets/header1.jpg" alt="..."/>
-</p>
+</p> -->
 
 ### Обо мне
 
