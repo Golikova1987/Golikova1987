@@ -31,4 +31,6 @@
 ![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
 ![Postman](https://img.shields.io/badge/-Postman-3b3b3b?style=flat&logo=postman)
 ![Webpack](https://img.shields.io/badge/-Webpack-3b3b3b?style=flat&logo=webpack)
+![Node.JS](https://img.shields.io/badge/-Node.JS-3b3b3b?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3b3b3b?style=flat&logo=mongodb)
 
