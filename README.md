@@ -1,14 +1,6 @@
 # Привет, меня зовут Татьяна!
-
 ---
-
-<!-- ![Header](https://github.com/Golikova1987/Golikova1987/blob/main/assets/header.jpg)  -->
-<!-- <p align="center">
- <img width="500" height="150" src="assets/header1.jpg" alt="..."/>
-</p> -->
-
 ### Обо мне
-
 Я начинающий front-end разработчик
 
 ### 🎯 Мои цели:
@@ -20,7 +12,7 @@
 
 
 
-### Технологии
+### 🔧 Мой стек:
 
 ![HTML](https://img.shields.io/badge/-HTML-3b3b3b?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-3b3b3b?style=flat&logo=css3)
