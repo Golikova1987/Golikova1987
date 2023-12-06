@@ -4,14 +4,21 @@
 
 <!-- ![Header](https://github.com/Golikova1987/Golikova1987/blob/main/assets/header.jpg)  -->
 <p align="center">
- <img width="600" height="200" src="assets/header.jpg" alt="..."/>
+ <img width="500" height="150" src="assets/header.jpg" alt="..."/>
 </p>
 
 ### Обо мне
 
 Я начинающий front-end разработчик
 
-ссылки на соц сети 
+### 🎯 Мой цели:
+
+- ворваться в IT
+- стать частью крутой команды
+- изучить новые фреймворки
+- выучить английский
+
+
 
 ### Технологии
 
@@ -22,4 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
 ![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
+![Postman](https://img.shields.io/badge/-Postman-3b3b3b?style=flat&logo=postman)
+![Webpack](https://img.shields.io/badge/-Webpack-3b3b3b?style=flat&logo=webpack)
 
